@@ -1,0 +1,34 @@
+.navbar {
+    margin-top: 15px;
+}
+
+#main_contents_box{
+}
+
+.main_half{
+    height: 500px;
+    float: left;
+}
+
+.main_half.left{
+}
+
+.main_half.right{
+}
+
+.main_half .table.deal{
+    margin-top: 15px;
+}
+
+.input-group.share{
+    margin-top: 10px;
+}
+
+.btn.upload{
+    margin-top: 10px;
+    float: right;
+}
+
+.reset-float{
+    clear: both;
+}
